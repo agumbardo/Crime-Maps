@@ -1,6 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
+data/chicago_crime
+data/chicago_crime.geojson
 
-*.geojson
-*.html
 *.txt
