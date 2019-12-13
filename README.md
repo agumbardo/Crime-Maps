@@ -30,4 +30,4 @@ TODO
 ___
 
 ## Authors
-Adam Gumbardo, Vedaant Kukadia and Van Koykendal
+Adam Gumbardo, Vedaant Kukadia and Van Coykendall
