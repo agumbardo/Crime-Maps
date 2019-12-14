@@ -19,6 +19,10 @@ def vis1():
 def vis2():
 	return render_template("vis2.html")
 
+@app.route("/vis4")
+def vis4():
+	return render_template("vis4.html")
+
 
 
 if __name__ == "__main__":
