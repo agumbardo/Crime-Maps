@@ -37,7 +37,7 @@ ___
 
 ### To run the website 
 
-Run python3 website.py
+Run 'python3 website.py'
 
 
 ## Authors
