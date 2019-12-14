@@ -1,6 +1,8 @@
 # Crime-Maps
 ## About
 
+Interactive tool for visualizing crime data!
+
 ---
 
 ## Dependencies
@@ -24,9 +26,13 @@ You must have a google api key. Generate your own or use the one I provide (`gcl
 
 ## Use
 
+### chicago.ipynb
+
+Notebook where a bunch of the datacleaning was done. Running certain cells will output a interactive crime map within the notebook or in a seperate html file.
+
 ### fetch_data.py
 
-TODO
+Creates a pandas dataframe by querying the Kaggle Chicago crime dataset using Google BigQuery
 ___
 
 ## Authors
