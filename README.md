@@ -35,5 +35,10 @@ Notebook where a bunch of the datacleaning was done. Running certain cells will 
 Creates a pandas dataframe by querying the Kaggle Chicago crime dataset using Google BigQuery
 ___
 
+### To run the website 
+
+Run python3 website.py
+
+
 ## Authors
 Adam Gumbardo, Vedaant Kukadia and Van Coykendall
